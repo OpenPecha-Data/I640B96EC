@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18170
   title: དྭགས་པོ་ཆོས་བཞིའི་རྩ་འགྲེལ།
-  volume: ''
+  volume:
+    76783fe1d48d4512a99e5428aa8a4d75:
+      image_group_id: I1KG18212
+      title: Volume 1 of dwags po chos bzhi'i rtsa 'grel/
+      volume_number: 1
+      total_pages: 294
   author: ''
+ebook_metadata:
+  title: དྭགས་པོ་ཆོས་བཞིའི་རྩ་འགྲེལ།
+  author: ''
+  sku: P006951
+  cover: cover.jpg
+  layers:
+  - pagination
